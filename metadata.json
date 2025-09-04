@@ -1,0 +1,5 @@
+{
+  "name": "Withdrawal Limit System UI",
+  "description": "An internal tool to manage and monitor fiat and crypto withdrawal limits for users. It includes features for group-based limits, individual overrides, bulk user assignment, and an approval dashboard for transactions exceeding global limits.",
+  "requestFramePermissions": []
+}
